@@ -1,0 +1,2 @@
+-- hands up skid
+loadstring(game:HttpGet('https://raw.githubusercontent.com/g0o1m/Scripts/main/Slap%20Battles'))()
